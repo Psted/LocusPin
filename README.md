@@ -1,4 +1,5 @@
 ## LocusPin — Local Discovery, Reimagined
+<img url=https://github.com/Psted/LocusPin/blob/89500efe6957c0daaa02b4c3564b5d4a88b63d05/eng_feature-graphic.png></img>
 
 LocusPin helps you discover what’s happening right around you. It shows nearby businesses, events, and community posts on an interactive map and in an easy-to-scan feed, so you can quickly see local recommendations, real‑time updates, and conversations. Notify users within range whenever they reach an area that is pinned dangerous or insecure so that they are aware! 
 
