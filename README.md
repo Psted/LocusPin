@@ -18,3 +18,25 @@ Experience
 - Focused on hyperlocal discovery and community connection.  
 - Clean, modern interface designed for quick browsing and real‑time engagement.  
 - Built to help residents, visitors, and local businesses connect around places and moments.
+
+How to start: 
+1. Open the app and accept the location permissions so that LocusPin can discover posts around you.
+2. If you wish to interact and create posts or comments, please sign-up and create an account using your e-mail and a password.
+3. A link will be sent to your e-mail, accept and your account is activated.
+
+How to delete your account: 
+1. Go to your Profile
+2. Go to Privacy & Safety
+3. At the bottom, choose Delete Account
+4. Confirm, your account will be deleted
+
+If you lost access to the app or your account, please contact admin @ locuspin.com. 
+
+How can I access my data? 
+1. Go to your Profile
+2. All your posts, likes and pins are accessible from here
+
+How do I download my data? 
+1. Go to your Profile 
+2. Go to Privacy & Safety
+3. Choose Download My Data
