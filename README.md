@@ -41,4 +41,4 @@ How do I download my data?
 2. Go to Privacy & Safety
 3. Choose Download My Data
 
-<a href=privacy.html>View our privacy and terms</a>
+<a href=https://www.locuspin.com/privacy.html>View our privacy and terms</a>
