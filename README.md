@@ -40,3 +40,5 @@ How do I download my data?
 1. Go to your Profile 
 2. Go to Privacy & Safety
 3. Choose Download My Data
+
+<a href=privacy.html>View our privacy and terms</a>
